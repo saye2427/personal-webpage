@@ -18,4 +18,4 @@ This is a platform to be your presence on the internet.
 
 This can any project you want it to be. Keeping some limits will allow you to get more out of the project.
 
-Again, the class is focused on frontend, so imit yourself to only frontend features. And keep in mind that you can expand the project in the future.
+Again, the class is focused on frontend, so limit yourself to only frontend features. And keep in mind that you can expand the project in the future.
