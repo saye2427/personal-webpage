@@ -125,7 +125,7 @@ HERO
     text-align: center;
 }
 
-.call-to-action-btn {
+.enter-btn {
     width: 15rem;
     border-radius: 40px;
     border: 1px solid #C1C1C1;
@@ -141,7 +141,7 @@ HERO
     text-decoration: none;
 }
 
-.call-to-action-btn:hover {
+.enter-btn:hover {
     transform: scale(1.1);
     box-shadow: 0 5px 3px rgba(0,0,0,.3);
 }
