@@ -27,6 +27,72 @@ NAVBAR
     box-shadow: 0 8px 6px -6px;
 }
 
+.nav-btn-1 {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+    color: white;
+}
+.nav-btn-1:hover {
+    transform: scale(1.3);
+}
+
+.nav-btn-2 {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+    color: white;
+}
+.nav-btn-2:hover {
+    transform: scale(1.3);
+}
+
+.nav-btn-3 {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+    color: white;
+}
+.nav-btn-3:hover {
+    transform: scale(1.3);
+}
+
+.nav-btn-4 {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+    color: white;
+}
+.nav-btn-4:hover {
+    transform: scale(1.3);
+}
+
+.nav-btn-5 {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+    color: white;
+}
+.nav-btn-5:hover {
+    transform: scale(1.3);
+}
+
+.nav-btn-6 {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+    color: white;
+}
+.nav-btn-6:hover {
+    transform: scale(1.3);
+}
+
 /*******************
 HERO
 *******************/
