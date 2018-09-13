@@ -15,86 +15,16 @@ NAVBAR
     height: 70px;
     width: 100%;
     background: #00001a;
+
     display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
+    justify-content: space-around;
     align-items: center;
-    font-family: georgia;
-    font-size: 15px;
+
+    font-family: Snell Roundhand, cursive;
+    font-size: 30px;
+
     list-style-type: none;
     box-shadow: 0 8px 6px -6px;
-}
-
-.nav-btn-1 {
-  text-decoration: none;
-  list-style-type: none;
-  color: white;
-  margin-left: 3rem;
-  transition: all 200ms;
-}
-
-.nav-btn-1:hover {
-  transform: scale(1.1);
-}
-
-.nav-btn-2 {
-  text-decoration: none;
-  list-style-type: none;
-  color: white;
-  margin-left: 3rem;
-  transition: all 200ms;
-}
-
-.nav-btn-2:hover {
-  transform: scale(1.1);
-}
-
-.nav-btn-3 {
-  text-decoration: none;
-  list-style-type: none;
-  color: white;
-  margin-left: 3rem;
-  transition: all 200ms;
-}
-
-.nav-btn-3:hover {
-  transform: scale(1.1);
-}
-
-.nav-btn-4 {
-  text-decoration: none;
-  list-style-type: none;
-  color: white;
-  margin-left: 3rem;
-  transition: all 200ms;
-}
-
-.nav-btn-4:hover {
-  transform: scale(1.1);
-}
-
-.nav-btn-5 {
-  text-decoration: none;
-  list-style-type: none;
-  color: white;
-  margin-left: 3rem;
-  transition: all 200ms;
-}
-
-.nav-btn-5:hover {
-  transform: scale(1.1);
-}
-
-.nav-btn-6 {
-  text-decoration: none;
-  list-style-type: none;
-  color: white;
-  margin-left: 3rem;
-  transition: all 200ms;
-}
-
-.nav-btn-6:hover {
-  transform: scale(1.1);
 }
 
 /*******************
