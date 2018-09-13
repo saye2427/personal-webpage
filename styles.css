@@ -20,7 +20,7 @@ NAVBAR
     justify-content: space-around;
     align-items: center;
 
-    font-family: Snell Roundhand, cursive;
+    font-family: 'Snell Roundhand', 'cursive';
     font-size: 30px;
 
     list-style-type: none;
@@ -98,47 +98,49 @@ HERO
 *******************/
 
 .hero {
-  height: calc(99vh - 50px);
-  width: 100%;
-  background: linear-gradient(rgba(44, 62, 80, .3), rgba(44, 62, 80, .3)), url('https://www.pcrevue.sk/files/photo/2018-04/42366/40c02e/bg.jpg');
-  background-size: cover;
-  background-repeat: no-repeat;
+    height: calc(95vh - 50px);
+    width: 100%;
+    background: linear-gradient(rgba(44, 62, 80, .3), rgba(44, 62, 80, .3)), url('https://www.pcrevue.sk/files/photo/2018-04/42366/40c02e/bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .hero-overlay-text {
-  z-index: 5;
-  height: calc(100vh - 50px);
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  color: white;
-  font-family: 'Georgia';
+    z-index: 5;
+    height: calc(100vh - 50px);
+    width: 100%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
 }
 
 .hero-overlay-text h1 {
-  margin-top: 0rem;
-  font-size: 7rem;
-  font-family: 'Georgia';
-  font-weight: 300;
-  text-align: center;
+    margin-top: 0rem;
+    font-size: 7rem;
+    font-family: 'Snell Roundhand', 'cursive';
+    font-weight: 900;
+    text-align: center;
 }
 
 .call-to-action-btn {
-  background-color: rgba(253, 253, 253, 1);
-  color: #616161;
-  border-radius: 40px;
-  border: 1px solid #C1C1C1;
-  padding: 10px 0;
-  text-decoration: none;
-  width: 15rem;
-  text-align: center;
-  transition: all 200ms;
-  box-shadow: 0 2px 0px rgba(0,0,0,.3);
+    width: 15rem;
+    border-radius: 40px;
+    border: 1px solid #C1C1C1;
+    box-shadow: 0 5px 0px rgba(0,0,0,.3);
+
+    background-color: rgba(253, 253, 253, 1);
+
+    color: #616161;
+    font-family: 'Brush Script MT', 'Brush Script Std', 'cursive';
+    padding: 10px 0;
+    text-align: center;
+    text-decoration: none;
 }
 
 .call-to-action-btn:hover {
-  transform: scale(1.02);
-  box-shadow: 0 2px 1px rgba(0,0,0,.3);
+    transform: scale(1.1);
+    box-shadow: 0 5px 3px rgba(0,0,0,.3);
 }
